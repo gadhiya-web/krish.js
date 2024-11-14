@@ -1,3 +1,3 @@
 // nots and output => /* */
 
-// <= comments
+// <= comments and consol.log
