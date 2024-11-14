@@ -1,9 +1,9 @@
-// LETCHUR-6 START //F
+// LETCHUR-6 START //
 
 /* 
-// let score = "33abc"
-// let score = null
-// let score = undefined
+let score = "33abc"
+let score = null
+let score = undefined
 */
 let score = true
 
@@ -36,3 +36,6 @@ let somenumber = 33
 let stringnumber = String (somenumber)
 console.log(stringnumber);
 console.log(typeof stringnumber);
+
+
+// LETCHUR-6 END //
