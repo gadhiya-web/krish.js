@@ -34,8 +34,23 @@ true => 1 , false => 0
 let somenumber = 33
 
 let stringnumber = String (somenumber)
-console.log(stringnumber);
-console.log(typeof stringnumber);
+//console.log(stringnumber);
+//console.log(typeof stringnumber);
 
 
 // LETCHUR-6 END //
+
+/********************************* oprerations ***************************/
+
+// LETCHUR => 7 START //
+
+let value = 3
+let nagvalue = -value
+//console.log(nagvalue);
+
+let str1 = "hello"
+let str2 = " krish"
+let str3 = str1 + str2
+//console.log(str3);
+
+ 
