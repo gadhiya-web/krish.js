@@ -5,7 +5,7 @@ let score = "33abc"
 let score = null
 let score = undefined
 */
-let score = true
+let score = "33abc"
 
 //console.log(typeof score);
 //console.log(typeof(score));
@@ -53,4 +53,17 @@ let str2 = " krish"
 let str3 = str1 + str2
 //console.log(str3);
 
- 
+
+/* presidant oprerations */
+
+let num1 , num2 , num3 
+
+num1 = num2 = num3 =2 + 2
+
+let gamecounter =100
+gamecounter++;
+//console.log(gamecounter);
+
+
+/* sherch on google  prefix and post fix js mdn */
+
