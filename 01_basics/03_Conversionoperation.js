@@ -51,7 +51,7 @@ let nagvalue = -value
 let str1 = "hello"
 let str2 = " krish"
 let str3 = str1 + str2
-//console.log(str3);
+console.log(str3);
 
 
 /* presidant oprerations */
