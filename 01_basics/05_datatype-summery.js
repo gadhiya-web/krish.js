@@ -64,6 +64,12 @@ console.log(typeof myfunction);
 
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+
+
+
+
+
+
 /* LETCHUR-10 START */
 /* 
 // 2 MEMORY
@@ -81,16 +87,16 @@ anothername = "krish gadhiya"
 //console.log(anothername);
 
 let userone = {
-       email: "user@gmail.com",
+       Email: "user@gmail.com",
        upi: "user@ybl3545"
 }
 
 let usertwo = userone
 
-usertwo.email = "krishgadhiya@gmail.com"
+usertwo.Email = "krishgadhiya@gmail.com"
 
-console.log(userone.email);
-console.log(usertwo.email);
+console.log(userone.Email);
+console.log(usertwo.Email);
 
 
 
