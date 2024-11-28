@@ -15,27 +15,27 @@ const myArr = new Array(1, 2, 3, 4)
 // const myArr = [1, 2, 3, 4];
 
 
-// myArr.push(6)
-// myArr.push(7)
-// myArr.pop()
-// console.log(myArr);
+myArr.push(6)
+myArr.push(7)
+myArr.pop()
+console.log(myArr);
 
 
-// myArr.unshift(9)
-// myArr.shift()
-// console.log(myArr);
+myArr.unshift(9)
+myArr.shift()
+console.log(myArr);
 
 
-// console.log(myArr.includes(9));
-// console.log(myArr.indexOf(4));
-// console.log(myArr);
+console.log(myArr.includes(9));
+console.log(myArr.indexOf(4));
+console.log(myArr);
 
 
 
 
-// const newArr = myArr.join();
-// console.log(myArr);
-// console.log(typeof newArr);
+const newArr = myArr.join();
+console.log(myArr);
+console.log(typeof newArr);
 
 
 /* ++++++++++++++++++++  slice, splice  +++++++++++++++ */
