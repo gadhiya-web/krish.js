@@ -1,0 +1,4 @@
+//  singalton
+
+//  object literals
+
